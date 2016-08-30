@@ -2,8 +2,6 @@
 
 one:
   nombre: MyString
-  detalle: MyText
 
 two:
   nombre: MyString
-  detalle: MyText
